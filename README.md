@@ -1,3 +1,5 @@
+Insert Logo and intro/data/analysis/statement of purpose sections if applicable since it is short
+
 # Portland Water Quality Lake Index
 This short repository includes data that underpins the Portland Water District 
 (PWD) Lake Index, and code for redrawing their excellent summary graphics in
